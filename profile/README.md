@@ -37,4 +37,4 @@
 - **Technical Publications:** [https://logicspine.in/blogs](https://logicspine.in/blogs)
 - **Twitch:** Add your Twitch channel link here
 - **Patreon:** Add your Patreon link here
-- **Contact:** `logicspineofficial@gmail.com` / `contact@logicspine.in`
+- **Contact:** `contact@logicspine.in`
